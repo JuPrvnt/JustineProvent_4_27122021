@@ -1043,6 +1043,15 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .text-size-30px {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .img-responsive {
+        width: 100%;
+    }
 }
 
 @media (max-width: 400px) {
