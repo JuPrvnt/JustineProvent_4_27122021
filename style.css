@@ -374,6 +374,11 @@ a:hover {
     font-size: 20px;
 }
 
+.text-size-30px {
+    font-size: 30px;
+    font-weight: bold;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
